@@ -1,0 +1,26 @@
+.search {
+	position: relative;
+	display: flex;
+    align-items: center;
+	width: 100%;
+	.input {
+		width: 100%;
+		padding: 6px 0 6px 30px;
+		color: $color-theme-4;
+		font-size: 20px;
+		border: none;
+		border-bottom: 1px solid $color-search;
+		outline: none;
+	}
+	.icon-search,
+	.icon-search-active {
+		position: absolute;
+		left: 0;
+	}
+	&.focus {
+		.input {
+			color: $color-black;
+			border-bottom: 1px solid $color-search-focus;
+		}
+	}
+}
