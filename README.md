@@ -4,7 +4,7 @@ A very simple todo list for trying React 16. A basic boilerplate for using React
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development purposes.
 
 ### Prerequisites
 
