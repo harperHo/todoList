@@ -1,3 +1,5 @@
+test 1
+
 # TODO LIST
 
 A very simple todo list for trying React 16. A basic boilerplate for using React, Redux, Webpack, etc.
